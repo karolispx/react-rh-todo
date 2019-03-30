@@ -2,6 +2,10 @@
 
 ---
 
+Great starting point for a project that has Redux and React Router: https://github.com/notrab/create-react-app-redux
+
+---
+
 ## About This Application:
 
 1. ReactJS application is hosted in **AWS S3** bucket.
