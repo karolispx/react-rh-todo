@@ -38,6 +38,6 @@ Great starting point for a project that has Redux and React Router: https://gith
 
 ## Deployment To AWS S3 Bucket:
 
-This article provides everything that's needed to setup VueJS/ReactJS application on AWS S3 bucket: https://developer.okta.com/blog/2018/07/03/deploy-vue-app-aws, once that's done:
+This article provides everything that's needed to setup VueJS/ReactJS application on AWS S3 bucket: https://developer.okta.com/blog/2018/07/03/deploy-vue-app-aws, only difference is in the `deploy` script, you need to have `./build` rather than `./dist`. Once that's done:
 1. Run `npm run build`
 2. Run `npm run deploy`
